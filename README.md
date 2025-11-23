@@ -13,14 +13,16 @@ Dado que este proyecto **no se usara como opcion de grado**, no se desarrolló u
 ### Equipo desarrollador
 
 -Martha Yurani Jimenez Rojas
+
 -Fabio Ernesto Ortiz Otalora
+
 -Jhon Hector Pinzon Rodriguez
 
 
 ###  Enlace al prototipo interactivo
 
 Prototipo navegable en Figma:  
-[](https://www.figma.com/proto/5nYkJGyV1T6bhcLSCuPweX/AGROMARKET-MJ?node-id=2300-3153&t=IKIT8ZFsQ241Yt5m-1&starting-point-node-id=2300%3A3144)
+https://www.figma.com/proto/5nYkJGyV1T6bhcLSCuPweX/AGROMARKET-MJ?node-id=2300-3153&t=IKIT8ZFsQ241Yt5m-1&starting-point-node-id=2300%3A3144
 
 El prototipo permite recorrer las principales funciones planteadas para AGROMARKET, incluyendo:
 - Registro e inicio de sesión  
